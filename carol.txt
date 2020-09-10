@@ -1,0 +1,3 @@
+-----------------------------------------------------------
+Nome: carol - Carro alugado HB20 - Carro alugado a 30 dias - 
+Valor: 2000,00 - Data do aluguel 04/09/2020 a 04/10/2020
